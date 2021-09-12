@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-commits-reader/static/css/main.46680238.chunk.css",
+    "main.js": "/github-commits-reader/static/js/main.894eacd3.chunk.js",
+    "main.js.map": "/github-commits-reader/static/js/main.894eacd3.chunk.js.map",
+    "runtime-main.js": "/github-commits-reader/static/js/runtime-main.81af4854.js",
+    "runtime-main.js.map": "/github-commits-reader/static/js/runtime-main.81af4854.js.map",
+    "static/js/2.d0237e97.chunk.js": "/github-commits-reader/static/js/2.d0237e97.chunk.js",
+    "static/js/2.d0237e97.chunk.js.map": "/github-commits-reader/static/js/2.d0237e97.chunk.js.map",
+    "static/js/3.d770da0c.chunk.js": "/github-commits-reader/static/js/3.d770da0c.chunk.js",
+    "static/js/3.d770da0c.chunk.js.map": "/github-commits-reader/static/js/3.d770da0c.chunk.js.map",
+    "index.html": "/github-commits-reader/index.html",
+    "static/css/main.46680238.chunk.css.map": "/github-commits-reader/static/css/main.46680238.chunk.css.map",
+    "static/js/2.d0237e97.chunk.js.LICENSE.txt": "/github-commits-reader/static/js/2.d0237e97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81af4854.js",
+    "static/js/2.d0237e97.chunk.js",
+    "static/css/main.46680238.chunk.css",
+    "static/js/main.894eacd3.chunk.js"
+  ]
+}
