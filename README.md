@@ -1,5 +1,6 @@
-# Getting Started with Create React App
 # [Visit Website](https://khaled-walid.github.io/github-commits-reader)
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Setup
